@@ -2,7 +2,7 @@ body{
   background-color: white;
 }
 .parallax-container {
-    height:400px;
+    height:350px;
     margin: 20px;
 }
 
@@ -16,12 +16,24 @@ nav .sideLinks {
   color: black;
 }
 
-i {
+.icons {
   font-size: 100px;
 }
 
 .card {
   padding: 2px;
+}
+
+.github {
+  font-size: 30px;
+}
+
+.card-content {
+  height:198px;
+}
+
+.card-image {
+  height:287px;
 }
 
 #goto {

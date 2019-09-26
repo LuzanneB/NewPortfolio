@@ -36,6 +36,28 @@ nav .sideLinks {
   height:287px;
 }
 
+.sidenav-trigger{
+  color: black;
+  z-index: 100;
+}
+
+/* toggle the icon on collapsible */
+.openIcon{
+  display:inline-block;
+}
+
+.closeIcon {
+  display: none !important;
+}
+
+.collapsible li.active .closeIcon{
+  display: inline-block !important;
+}
+
+.collapsible li.active .openIcon{
+  display:none !important;
+}
+
 #goto {
   position: fixed;
   bottom: 30px;

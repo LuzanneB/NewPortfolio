@@ -1,13 +1,13 @@
-*{
-  color: black !important;
-}
-
 body{
   background-color: white;
 }
 .parallax-container {
-    height:350px;
+    height:400px;
     margin: 20px;
+}
+
+.parallaxImage{
+  width:100%;
 }
 
 nav .brand-logo {

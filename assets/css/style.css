@@ -12,15 +12,13 @@ body{
 
 nav .brand-logo {
   margin-left: 15px;
-  color: black;
- 
-}
-
-nav .sideLinks {
-  color: black;
 }
 
 .icons {
+  font-size: 100px;
+}
+
+.contactIcon {
   font-size: 100px;
 }
 
@@ -41,7 +39,6 @@ nav .sideLinks {
 }
 
 .sidenav-trigger{
-  color: black;
   z-index: 100;
 }
 
@@ -73,15 +70,9 @@ nav .sideLinks {
   /* opacity: 0; */
 }
 
-#goto:hover {
-  background-color: plum;
-}
-
 #material-icons {
   font-size: 20px
 }
 
-#aboutMe {
-  text-align: center;
-}
+
 

@@ -20,10 +20,15 @@ nav .brand-logo {
 
 .contactIcon {
   font-size: 100px;
+  color: black;
 }
 
 .card {
   padding: 2px;
+}
+
+.card .card-action a{
+  color: black !important;
 }
 
 .github {

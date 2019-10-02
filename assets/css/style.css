@@ -1,6 +1,10 @@
 body{
   background-color: white;
 }
+
+.sideLinks{
+  color: black;
+}
 .parallax-container {
     height:400px;
     margin: 20px;
@@ -12,7 +16,10 @@ body{
 
 nav .brand-logo {
   margin-left: 15px;
+  color: black;
 }
+
+
 
 .icons {
   font-size: 100px;
@@ -45,6 +52,7 @@ nav .brand-logo {
 
 .sidenav-trigger{
   z-index: 100;
+  color: black;
 }
 
 /* toggle the icon on collapsible */
